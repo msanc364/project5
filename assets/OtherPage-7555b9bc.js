@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s,a as n}from"./index-b11e1213.js";const c={},o={class:"flex min-h-screen items-center justify-center"},a=n("h1",{class:"text-6xl font-thin text-slate-300"},"Halloween Menu coming Soon!",-1),r=[a];function _(i,l){return t(),s("main",o,r)}const h=e(c,[["render",_]]);export{h as default};
